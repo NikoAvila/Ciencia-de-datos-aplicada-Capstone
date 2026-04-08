@@ -1,5 +1,10 @@
 # Ciencia de datos aplicada Capstone
 ## Proyecto final de certificado para Ciencia de datos aplicada Capstone
+
+### SpaceX Falcon 9 First Stage Landing Prediction
+#### Project Overview
+##### This project predicts the success of the Falcon 9 first-stage landing. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, determining if the first stage will land successfully allows us to estimate the cost of a launch.
+
 Los archivos son los siguiente:
 
  * SpaceX_Machine Learning Prediction.ipynb: https://github.com/NikoAvila/Ciencia-de-datos-aplicada-Capstone/blob/40a6984de5a9041aea51947fe87f24553bfc5aaa/SpaceX_Machine%20Learning%20Prediction.ipynb
