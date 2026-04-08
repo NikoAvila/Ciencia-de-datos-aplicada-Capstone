@@ -1,4 +1,4 @@
-# Ciencia-de-datos-aplicada-Capstone
+# Ciencia de datos aplicada Capstone
 Proyecto final de certificado para Ciencia de datos aplicada Capstone
 Los archivos son los siguiente:
 
