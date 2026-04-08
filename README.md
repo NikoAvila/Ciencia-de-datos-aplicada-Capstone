@@ -9,3 +9,5 @@ Los archivos son los siguiente:
  * lab_jupyter_launch_site_location.ipynb: https://github.com/NikoAvila/Ciencia-de-datos-aplicada-Capstone/blob/40a6984de5a9041aea51947fe87f24553bfc5aaa/lab_jupyter_launch_site_location.ipynb
 
  * jupyter-labs-eda-sql-coursera_sqllite.ipynb: https://github.com/NikoAvila/Ciencia-de-datos-aplicada-Capstone/blob/40a6984de5a9041aea51947fe87f24553bfc5aaa/jupyter-labs-eda-sql-coursera_sqllite.ipynb
+
+ * my_data1.db: https://github.com/NikoAvila/Ciencia-de-datos-aplicada-Capstone/blob/bbd7559ff69b6793900afd9cd41eb66bbfab3886/my_data1.db
