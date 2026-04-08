@@ -75,9 +75,6 @@ def get_pie_chart(entered_site):
                      title=f'Total Success Launches for site {entered_site}')
         return fig
 
-# Al final de todo tu archivo siempre debe quedar esto:
-if __name__ == '__main__':
-    app.run_server()
 # TASK 4:
 # Add a callback function for `site-dropdown` and `payload-slider` as inputs, `success-payload-scatter-chart` as output
 # TASK 4:
